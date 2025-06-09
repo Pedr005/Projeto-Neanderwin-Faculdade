@@ -1,2 +1,2 @@
-# Projeto-Neanderwin-Faculdade
+# Projeto-Neanderwin
 # Olá, esse é um projeto da faculdade onde eu criei um programa que soma dois números negativos no neanderwin.
